@@ -178,7 +178,7 @@
       "wholesale": [],
       "category": "Proyectores",
       "page": 19,
-      "img": "juguetes/proyector_astronauta.png"
+      "img": "juguetes/proyector_astronauta_2.png"
     },
     {
       "id": 19,
@@ -287,7 +287,8 @@
       "priceNum": 10000,
       "wholesale": [],
       "category": "Arte y Escritura",
-      "page": 30
+      "page": 30,
+      "img": "juguetes/PIZZARRA MAGICA ANIMADA 9.png"
     },
     {
       "id": 30,
@@ -297,7 +298,7 @@
       "wholesale": [],
       "category": "Arte y Escritura",
       "page": 31,
-      "img": "juguetes/PIZZARRA MAGICA ANIMADA 9.png"
+      "img": "juguetes/PIZZARRA MAGICA ANIMADA 9-2.png"
     },
     {
       "id": 31,
@@ -317,7 +318,7 @@
       "wholesale": [],
       "category": "Arte y Escritura",
       "page": 33,
-      "img": "juguetes/pizarra_magica_netmak.png"
+      "img": "juguetes/pizarra_magica_netmak_2.png"
     },
     {
       "id": 33,
@@ -326,7 +327,8 @@
       "priceNum": 15000,
       "wholesale": [],
       "category": "Arte y Escritura",
-      "page": 34
+      "page": 34,
+      "img": "juguetes/pizarra_magica_20-20.png"
     },
     {
       "id": 34,
@@ -335,7 +337,8 @@
       "priceNum": 18000,
       "wholesale": [],
       "category": "Arte y Escritura",
-      "page": 35
+      "page": 35,
+      "img": "juguetes/pizarra_magica_20-30.png"
     },
     {
       "id": 35,
@@ -369,7 +372,7 @@
     },
     {
       "id": 38,
-      "name": "SET DE FIBRAS GLITTER DUAL TIP 12 PCS",
+      "name": "SET DE FIBRAS GLITTER DUAL TIP",
       "price": "$12.000",
       "priceNum": 12000,
       "wholesale": [],
@@ -378,9 +381,19 @@
       "img": "juguetes/set_fibras_glitter_dual_tip_12_pcs.png"
     },
     {
+      "id": 38,
+      "name": "SET DE FIBRAS GLITTER DUAL TIP 12 PCS",
+      "price": "$18.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 39,
+      "img": "juguetes/set_fibras_glitter_dual_tip_12_pcs_2.png"
+    },
+    {
       "id": 39,
       "name": "SET DE FIBRAS GLITTER DUAL TIP 24 PCS",
-      "price": "$18.000",
+      "price": "$12.000",
       "priceNum": 18000,
       "wholesale": [],
       "category": "Arte y Escritura",
@@ -388,24 +401,14 @@
       "img": "juguetes/set_fibras_glitter_dual_tip_24_pcs.png"
     },
     {
-      "id": 40,
-      "name": "MARCADORES TOUCH- 24PCS",
-      "price": "$12.000",
+      "id": 41,
+      "name": "MARCADORES TOUCH- 36PCS",
+      "price": "$16.000",
       "priceNum": 12000,
       "wholesale": [],
       "category": "Arte y Escritura",
       "page": 41,
-      "img": "juguetes/marcadores_touch_24_pcs.png"
-    },
-    {
-      "id": 41,
-      "name": "MARCADORES TOUCH- 36PCS",
-      "price": "$6.000",
-      "priceNum": 6000,
-      "wholesale": [],
-      "category": "Arte y Escritura",
-      "page": 42,
-      "img": "juguetes/marcadores_touch_36_pcs.png"
+      "img": "juguetes/set_fibras_glitter_dual_tip_36_pcs.png"
     },
     {
       "id": 42,
