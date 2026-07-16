@@ -1,0 +1,1227 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "DRONE AVIÓN VELOCITY",
+      "price": "$35.000",
+      "priceNum": 35000,
+      "wholesale": [],
+      "category": "Drones",
+      "page": 2,
+      "img": "juguetes/drone_avion_velocity.png"
+    },
+    {
+      "id": 2,
+      "name": "DRONE AVIÓN GRAFFITI",
+      "price": "$35.000",
+      "priceNum": 35000,
+      "wholesale": [],
+      "category": "Drones",
+      "page": 3,
+      "img": "juguetes/drone_avion_graffiti.png"
+    },
+    {
+      "id": 3,
+      "name": "DRON E88 PRO",
+      "price": "$38.000",
+      "priceNum": 38000,
+      "wholesale": [],
+      "category": "Drones",
+      "page": 4,
+      "img": "juguetes/drone_e88_pro.png"
+    },
+    {
+      "id": 4,
+      "name": "DRON D5 PRO",
+      "price": "$65.000",
+      "priceNum": 65000,
+      "wholesale": [],
+      "category": "Drones",
+      "page": 5,
+      "img": "juguetes/dron_d5_pro.png"
+    },
+    {
+      "id": 5,
+      "name": "DRON S5HP PRO",
+      "price": "$85.000",
+      "priceNum": 85000,
+      "wholesale": [],
+      "category": "Drones",
+      "page": 6,
+      "img": "juguetes/dron_s5hp_pro.png"
+    },
+    {
+      "id": 6,
+      "name": "AUTO TREPADOR",
+      "price": "$38.000",
+      "priceNum": 38000,
+      "wholesale": [],
+      "category": "Vehículos",
+      "page": 7,
+      "img": "juguetes/auto_trepador.png"
+    },
+    {
+      "id": 7,
+      "name": "PERRO ROBOT STUNT",
+      "price": "$45.000",
+      "priceNum": 45000,
+      "wholesale": [],
+      "category": "Robots",
+      "page": 8,
+      "img": "juguetes/perro_robot.png"
+    },
+    {
+      "id": 8,
+      "name": "AUTO STUNT CAR DE HOMBRE ARAÑA",
+      "price": "$35.000",
+      "priceNum": 35000,
+      "wholesale": [],
+      "category": "Vehículos",
+      "page": 9,
+      "img": "juguetes/auto_stunt_car_hombre_arana.png"
+    },
+    {
+      "id": 9,
+      "name": "AUTO A CONTROL REMOTO F1",
+      "price": "$48.000",
+      "priceNum": 48000,
+      "wholesale": [],
+      "category": "Vehículos",
+      "page": 10,
+      "img": "juguetes/auto_a_control_remoto_f1.png"
+    },
+    {
+      "id": 10,
+      "name": "TANQUE DE HIDROGEL",
+      "price": "$48.000",
+      "priceNum": 48000,
+      "wholesale": [],
+      "category": "Vehículos",
+      "page": 11,
+      "img": "juguetes/tanque_de_hidrogel.png"
+    },
+    {
+      "id": 11,
+      "name": "CONSOLA SUP SIMPLE",
+      "price": "$23.000",
+      "priceNum": 23000,
+      "wholesale": [],
+      "category": "Consolas",
+      "page": 12,
+      "img": "juguetes/consola_sup_simple.png"
+    },
+    {
+      "id": 12,
+      "name": "CONSOLA SUP DOBLE",
+      "price": "$26.000",
+      "priceNum": 26000,
+      "wholesale": [],
+      "category": "Consolas",
+      "page": 13,
+      "img": "juguetes/consola_sup_doble.png"
+    },
+    {
+      "id": 13,
+      "name": "JOYSTICK PS4 SONY / ARGENTINA",
+      "price": "$35.000",
+      "priceNum": 35000,
+      "wholesale": [],
+      "category": "Consolas",
+      "page": 14,
+      "img": "juguetes/joystick_ps4_sony_argentina.png"
+    },
+    {
+      "id": 14,
+      "name": "JOYSTICK PS4 / SONY LISO",
+      "price": "$30.000",
+      "priceNum": 30000,
+      "wholesale": [],
+      "category": "Consolas",
+      "page": 15,
+      "img": "juguetes/joystick_ps4_sony_liso.png"
+    },
+    {
+      "id": 15,
+      "name": "MICROFONO PARLANTE",
+      "price": "$14.000",
+      "priceNum": 14000,
+      "wholesale": [],
+      "category": "Audio",
+      "page": 16,
+      "img": "juguetes/microfono_parlante.png"
+    },
+    {
+      "id": 16,
+      "name": "PROYECTOR STAR MÁSTER",
+      "price": "$14.000",
+      "priceNum": 14000,
+      "wholesale": [],
+      "category": "Proyectores",
+      "page": 17,
+      "img": "juguetes/proyector_star_master.png"
+    },
+    {
+      "id": 17,
+      "name": "PROYECTOR ASTRONAUTA",
+      "price": "$30.000",
+      "priceNum": 30000,
+      "wholesale": [],
+      "category": "Proyectores",
+      "page": 18,
+      "img": "juguetes/proyector_astronauta.png"
+    },
+    {
+      "id": 18,
+      "name": "PROYECTOR ASTRONAUTA",
+      "price": "$35.000",
+      "priceNum": 35000,
+      "wholesale": [],
+      "category": "Proyectores",
+      "page": 19,
+      "img": "juguetes/proyector_astronauta.png"
+    },
+    {
+      "id": 19,
+      "name": "AURICULAR LABUBU CON PELUCHE",
+      "price": "$20.000",
+      "priceNum": 20000,
+      "wholesale": [],
+      "category": "Audio",
+      "page": 20,
+      "img": "juguetes/auricular_labubu_con_peluche.png"
+    },
+    {
+      "id": 20,
+      "name": "AURICULARES CAT Y47",
+      "price": "$15.000",
+      "priceNum": 15000,
+      "wholesale": [],
+      "category": "Audio",
+      "page": 21,
+      "img": "juguetes/auriculares_cat_y47.png"
+    },
+    {
+      "id": 21,
+      "name": "AURICULAR LABUBUS 613A",
+      "price": "$25.000",
+      "priceNum": 25000,
+      "wholesale": [],
+      "category": "Audio",
+      "page": 22,
+      "img": "juguetes/auricular_labubus_613a.png"
+    },
+    {
+      "id": 22,
+      "name": "WALKIE TALKIE INFANTIL",
+      "price": "$25.000",
+      "priceNum": 25000,
+      "wholesale": [],
+      "category": "Audio",
+      "page": 23,
+      "img": "juguetes/walkie_talkie_infantil.png"
+    },
+    {
+      "id": 23,
+      "name": "WALKIE TALKIE INFANTIL E-366",
+      "price": "$45.000",
+      "priceNum": 45000,
+      "wholesale": [],
+      "category": "Audio",
+      "page": 24,
+      "img": "juguetes/walkie_talkie_infantil_e_366.png"
+    },
+    {
+      "id": 24,
+      "name": "CÁMARA INFANTIL SUMMER VACATION",
+      "price": "$20.000",
+      "priceNum": 20000,
+      "wholesale": [],
+      "category": "Fotografía",
+      "page": 25,
+      "img": "juguetes/camara_infantil_summer_vacation.png"
+    },
+    {
+      "id": 25,
+      "name": "MINI CÁMARA IMPRESORA PORTÁTIL",
+      "price": "$35.000",
+      "priceNum": 35000,
+      "wholesale": [],
+      "category": "Fotografía",
+      "page": 26,
+      "img": "juguetes/mini_camara_impresora_portatil.png"
+    },
+    {
+      "id": 26,
+      "name": "CARTUCHERA PIZARRA MÁGICA",
+      "price": "$6.000",
+      "priceNum": 6000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 27,
+      "img": "juguetes/cartuchera_pizarra_magica.png"
+    },
+    {
+      "id": 27,
+      "name": "PIZARRA MÁGICA",
+      "price": "$6.000",
+      "priceNum": 6000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 28,
+      "img": "juguetes/pizarra_magica.png"
+    },
+    {
+      "id": 28,
+      "name": "PIZARRA MAGICA 12″",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 29,
+      "img": "juguetes/pizarra_magica_12.png"
+    },
+    {
+      "id": 29,
+      "name": "PIZARRA MÁGICA ANIMADA 9”",
+      "price": "$10.000",
+      "priceNum": 10000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 30
+    },
+    {
+      "id": 30,
+      "name": "PIZARRA MÁGICA ANIMADA 9\"",
+      "price": "$18.000",
+      "priceNum": 18000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 31,
+      "img": "juguetes/PIZZARRA MAGICA ANIMADA 9.png"
+    },
+    {
+      "id": 31,
+      "name": "PIZARRA MAGICA NETMAK PEQUEÑA + CALCULADORA",
+      "price": "$20.000",
+      "priceNum": 20000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 32,
+      "img": "juguetes/pizarra_magica_netmak.png"
+    },
+    {
+      "id": 32,
+      "name": "PIZARRA MÁGICA NETMAK",
+      "price": "$30.000",
+      "priceNum": 30000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 33,
+      "img": "juguetes/pizarra_magica_netmak.png"
+    },
+    {
+      "id": 33,
+      "name": "PIZARRA MAGICA 20 x 20",
+      "price": "$15.000",
+      "priceNum": 15000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 34
+    },
+    {
+      "id": 34,
+      "name": "PIZARRA MAGICA 20 x 30",
+      "price": "$18.000",
+      "priceNum": 18000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 35
+    },
+    {
+      "id": 35,
+      "name": "LAPIZ IMPRESIÓN 3D",
+      "price": "$25.000",
+      "priceNum": 25000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 36,
+      "img": "juguetes/lapiz_impresion_3d.png"
+    },
+    {
+      "id": 36,
+      "name": "MARCADOR PARA CERÁMICA",
+      "price": "$12.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 37,
+      "img": "juguetes/marcador_para_ceramica.png"
+    },
+    {
+      "id": 37,
+      "name": "MARCADOR PARA ROSTRO",
+      "price": "$15.000",
+      "priceNum": 15000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 38,
+      "img": "juguetes/marcador_para_rostro.png"
+    },
+    {
+      "id": 38,
+      "name": "SET DE FIBRAS GLITTER DUAL TIP 12 PCS",
+      "price": "$12.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 39,
+      "img": "juguetes/set_fibras_glitter_dual_tip_12_pcs.png"
+    },
+    {
+      "id": 39,
+      "name": "SET DE FIBRAS GLITTER DUAL TIP 24 PCS",
+      "price": "$18.000",
+      "priceNum": 18000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 40,
+      "img": "juguetes/set_fibras_glitter_dual_tip_24_pcs.png"
+    },
+    {
+      "id": 40,
+      "name": "MARCADORES TOUCH- 24PCS",
+      "price": "$12.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 41,
+      "img": "juguetes/marcadores_touch_24_pcs.png"
+    },
+    {
+      "id": 41,
+      "name": "MARCADORES TOUCH- 36PCS",
+      "price": "$6.000",
+      "priceNum": 6000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 42,
+      "img": "juguetes/marcadores_touch_36_pcs.png"
+    },
+    {
+      "id": 42,
+      "name": "MARCADORES TOUCH- 48PCS",
+      "price": "$18.000",
+      "priceNum": 18000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 43,
+      "img": "juguetes/marcadores_touch_48_pcs.png"
+    },
+    {
+      "id": 43,
+      "name": "MARCADORES TOUCH- 60PCS",
+      "price": "$23.000",
+      "priceNum": 23000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 44,
+      "img": "juguetes/marcadores_touch_60_pcs.png"
+    },
+    {
+      "id": 44,
+      "name": "MARCADORES TOUCH- 80PCS",
+      "price": "$25.000",
+      "priceNum": 25000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 45,
+      "img": "juguetes/marcadores_touch_80_pcs.png"
+    },
+    {
+      "id": 45,
+      "name": "MARCADORES TOUCH- 120PCS",
+      "price": "$30.000",
+      "priceNum": 30000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 46,
+      "img": "juguetes/marcadores_touch_120_pcs.png"
+    },
+    {
+      "id": 46,
+      "name": "SET DE ARTE CARACOL DREAM 46 PCS",
+      "price": "$16.000",
+      "priceNum": 16000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 47,
+      "img": "juguetes/set_arte_caracol_dream_46_pcs.png"
+    },
+    {
+      "id": 47,
+      "name": "SET DE ARTE 68PCS",
+      "price": "$12.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 48,
+      "img": "juguetes/set_arte_68_pcs.png"
+    },
+    {
+      "id": 48,
+      "name": "SET DE ARTE 168PCS",
+      "price": "$20.000",
+      "priceNum": 20000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 49,
+      "img": "juguetes/set_arte_168_pcs.png"
+    },
+    {
+      "id": 49,
+      "name": "MALETÍN ARSTÍSTICO METALICO 145 PCS",
+      "price": "$35.000",
+      "priceNum": 35000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 50,
+      "img": "juguetes/maletin_artistico_metalico_145_pcs.png"
+    },
+    {
+      "id": 50,
+      "name": "SET DE JOYAS PARA ARMAR / MARIPOSA",
+      "price": "$10.000",
+      "priceNum": 10000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 51,
+      "img": "juguetes/set_de_joyas_mariposa.png"
+    },
+    {
+      "id": 51,
+      "name": "SET DE JOYAS PARA ARMAR / RECTANGULO",
+      "price": "$12.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 52,
+      "img": "juguetes/set_de_joyas_rectangulo.png"
+    },
+    {
+      "id": 52,
+      "name": "DIAMOND PAINT PERSONAJES 30x30CM",
+      "price": "$10.000",
+      "priceNum": 10000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 53,
+      "img": "juguetes/diamond_paint_personajes_30x30.png"
+    },
+    {
+      "id": 53,
+      "name": "JUEGO DE ARTE DIAMOND PAINT 50x70",
+      "price": "$15.000",
+      "priceNum": 15000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 54,
+      "img": "juguetes/juego_arte_diamond_paint_50x70.png"
+    },
+    {
+      "id": 54,
+      "name": "DIAMOND PAINT CORAZÓN KC1197",
+      "price": "$3.000",
+      "priceNum": 3000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 55,
+      "img": "juguetes/diamond_paint_corazon.png"
+    },
+    {
+      "id": 55,
+      "name": "DIAMOND PAINT REDONDO CAPIBARA",
+      "price": "$3.000",
+      "priceNum": 3000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 56,
+      "img": "juguetes/diamond_paint_redondo_capibara.png"
+    },
+    {
+      "id": 56,
+      "name": "POP IT PRINCESA",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 57,
+      "img": "juguetes/pop_it_princesa.png"
+    },
+    {
+      "id": 57,
+      "name": "POP IT ASTRONAUTA",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 58,
+      "img": "juguetes/pop_it_astronauta.png"
+    },
+    {
+      "id": 58,
+      "name": "POP IT JIRAFA",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 59,
+      "img": "juguetes/pop_it_jirafa.png"
+    },
+    {
+      "id": 59,
+      "name": "JUEGO ELECTRÓNICO RUSSIA BLOCK",
+      "price": "$10.000",
+      "priceNum": 10000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 60,
+      "img": "juguetes/juego_electronico_russia_block.png"
+    },
+    {
+      "id": 60,
+      "name": "BURBUJERO DELFÍN",
+      "price": "$18.000",
+      "priceNum": 18000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 61,
+      "img": "juguetes/burbujero_delfin.png"
+    },
+    {
+      "id": 61,
+      "name": "BURBUJERO UNICORNIO AL-2033",
+      "price": "$20.000",
+      "priceNum": 20000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 62,
+      "img": "juguetes/burbujero_unicornio_al_2033.png"
+    },
+    {
+      "id": 62,
+      "name": "BURBUJERO UNICORNIO BUBBLE GUN M-9",
+      "price": "$16.000",
+      "priceNum": 16000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 63,
+      "img": "juguetes/burbujero_unicornio_bubble_gun_m_9.png"
+    },
+    {
+      "id": 63,
+      "name": "BURBUJERO DINOSAURIO M-8",
+      "price": "$12.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 64,
+      "img": "juguetes/burbujero_dinosaurio.png"
+    },
+    {
+      "id": 64,
+      "name": "PISTOLA BURBUJERO GRAFFITTI",
+      "price": "$16.000",
+      "priceNum": 16000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 65,
+      "img": "juguetes/pistola_burbujero_graffiti.png"
+    },
+    {
+      "id": 65,
+      "name": "BURBUJERO DINOSAURIO BLUE H014",
+      "price": "$25.000",
+      "priceNum": 25000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 66,
+      "img": "juguetes/burbujero_dinosaurio_blue_h014.png"
+    },
+    {
+      "id": 66,
+      "name": "BURBUJERO GRANDE BUBBLE ACTION",
+      "price": "$30.000",
+      "priceNum": 30000,
+      "wholesale": [],
+      "category": "Pop It y Burbujas",
+      "page": 67,
+      "img": "juguetes/burbujero_grande_bubble_action.png"
+    },
+    {
+      "id": 67,
+      "name": "VELADOR MAGNÉTICO LABUBU / CAPIBARA",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Proyectores",
+      "page": 68,
+      "img": "juguetes/velador_magnetico_labubu_capibara.png"
+    },
+    {
+      "id": 68,
+      "name": "VELADOR CAPIBARA CON SACAPUNTA",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Proyectores",
+      "page": 69,
+      "img": "juguetes/velador_capibara_con_sacapunta.png"
+    },
+    {
+      "id": 69,
+      "name": "ROBOT LABUBU QUE BAILA",
+      "price": "$14.000",
+      "priceNum": 14000,
+      "wholesale": [],
+      "category": "Robots",
+      "page": 70,
+      "img": "juguetes/robot_labubu_que_baila.png"
+    },
+    {
+      "id": 70,
+      "name": "RELOJ PROYECTOR LABUBU / CAPIBARA",
+      "price": "$10.000",
+      "priceNum": 10000,
+      "wholesale": [],
+      "category": "Proyectores",
+      "page": 71,
+      "img": "juguetes/reloj_proyector_labubu_capibara.png"
+    },
+    {
+      "id": 71,
+      "name": "MUÑECO COLECCIONABLE IA",
+      "price": "$6.000",
+      "priceNum": 6000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 72,
+      "img": "juguetes/muneco_coleccionable_ia.png"
+    },
+    {
+      "id": 72,
+      "name": "MALETÍN COCINA",
+      "price": "$28.000",
+      "priceNum": 28000,
+      "wholesale": [],
+      "category": "Juegos de Rol",
+      "page": 73,
+      "img": "juguetes/maletin_cocina.png"
+    },
+    {
+      "id": 73,
+      "name": "MALETÍN MAQUILLAJE",
+      "price": "$28.000",
+      "priceNum": 28000,
+      "wholesale": [],
+      "category": "Juegos de Rol",
+      "page": 74,
+      "img": "juguetes/maletin_maquillaje.png"
+    },
+    {
+      "id": 74,
+      "name": "MALETÍN DOCTORA",
+      "price": "$28.000",
+      "priceNum": 28000,
+      "wholesale": [],
+      "category": "Juegos de Rol",
+      "page": 75,
+      "img": "juguetes/maletin_doctora.png"
+    },
+    {
+      "id": 75,
+      "name": "LICUADORA DE JUGUETE HOME",
+      "price": "$25.000",
+      "priceNum": 25000,
+      "wholesale": [],
+      "category": "Juegos de Rol",
+      "page": 76,
+      "img": "juguetes/licuadora_de_juguete.png"
+    },
+    {
+      "id": 76,
+      "name": "CAFETERA DE JUGUETE HOME",
+      "price": "$25.000",
+      "priceNum": 25000,
+      "wholesale": [],
+      "category": "Juegos de Rol",
+      "page": 77,
+      "img": "juguetes/cafetera_de_juguete.png"
+    },
+    {
+      "id": 77,
+      "name": "ASPIRADORA DE JUGUETE HOME",
+      "price": "$25.000",
+      "priceNum": 25000,
+      "wholesale": [],
+      "category": "Juegos de Rol",
+      "page": 78,
+      "img": "juguetes/aspiradora_de_juguete.png"
+    },
+    {
+      "id": 78,
+      "name": "BARBIE EN MOTO",
+      "price": "$30.000",
+      "priceNum": 30000,
+      "wholesale": [],
+      "category": "Juegos de Rol",
+      "page": 79,
+      "img": "juguetes/barbie_en_moto.png"
+    },
+    {
+      "id": 79,
+      "name": "TREN ARMADOR DE DOMINÓ",
+      "price": "$25.000",
+      "priceNum": 25000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 80,
+      "img": "juguetes/tren_armador_de_domino.png"
+    },
+    {
+      "id": 80,
+      "name": "PELOTA INFLABLE PELUCHE",
+      "price": "$30.000",
+      "priceNum": 30000,
+      "wholesale": [],
+      "category": "Deportes",
+      "page": 81,
+      "img": "juguetes/pelota_inflable_peluche.png"
+    },
+    {
+      "id": 81,
+      "name": "PELOTA DE BÁSQUET",
+      "price": "$15.000",
+      "priceNum": 15000,
+      "wholesale": [],
+      "category": "Deportes",
+      "page": 82,
+      "img": "juguetes/pelota_de_basquet.png"
+    },
+    {
+      "id": 82,
+      "name": "PELOTA DE VOLEY",
+      "price": "$14.000",
+      "priceNum": 14000,
+      "wholesale": [],
+      "category": "Deportes",
+      "page": 83,
+      "img": "juguetes/pelota_de_voley.png"
+    },
+    {
+      "id": 83,
+      "name": "PELOTA DE FUTBOL N5",
+      "price": "$12.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Deportes",
+      "page": 84,
+      "img": "juguetes/pelota_de_futbol_n5.png"
+    },
+    {
+      "id": 84,
+      "name": "PELOTA MUNDIAL ECO - N 5 318 GR",
+      "price": "$12.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Deportes",
+      "page": 85,
+      "img": "juguetes/pelota_mundial_eco_n5.png"
+    },
+    {
+      "id": 85,
+      "name": "PELOTA DE FUTBOL N298 GR",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Deportes",
+      "page": 86,
+      "img": "juguetes/pelota_de_futbol_n2.png"
+    },
+    {
+      "id": 86,
+      "name": "PELOTA PLAYERA",
+      "price": "$2.000",
+      "priceNum": 2000,
+      "wholesale": [],
+      "category": "Deportes",
+      "page": 87,
+      "img": "juguetes/pelota_playera.png"
+    },
+    {
+      "id": 87,
+      "name": "DECORACIÓN FLUOR GRANDE",
+      "price": "$6.000",
+      "priceNum": 6000,
+      "wholesale": [],
+      "category": "Hogar y Decoración",
+      "page": 88,
+      "img": "juguetes/decoracion_fluor_grande.png"
+    },
+    {
+      "id": 88,
+      "name": "DECORACIÓN FLUOR PEQUEÑA 3D",
+      "price": "$6.000",
+      "priceNum": 6000,
+      "wholesale": [],
+      "category": "Hogar y Decoración",
+      "page": 89,
+      "img": "juguetes/decoracion_fluor_pequena_3d.png"
+    },
+    {
+      "id": 89,
+      "name": "JUEGO DIDÁCTICO TARJETA FLASH DINO",
+      "price": "$20.000",
+      "priceNum": 20000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 90,
+      "img": "juguetes/juego_didactico_tarjeta_flash_dino.png"
+    },
+    {
+      "id": 90,
+      "name": "MONOPOLY GUERRERAS KPOP",
+      "price": "$20.000",
+      "priceNum": 20000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 91,
+      "img": "juguetes/monopoly_guerreras_k_pop.png"
+    },
+    {
+      "id": 91,
+      "name": "AJEDREZ 3 EN 1",
+      "price": "$16.000",
+      "priceNum": 16000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 92,
+      "img": "juguetes/ajedrez_3_en_1.png"
+    },
+    {
+      "id": 92,
+      "name": "JUEGO DE SUMA",
+      "price": "$28.000",
+      "priceNum": 28000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 93,
+      "img": "juguetes/juego_de_suma.png"
+    },
+    {
+      "id": 93,
+      "name": "BASKETBALL CHICO G5027",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Deportes",
+      "page": 94,
+      "img": "juguetes/basketball_chico.png"
+    },
+    {
+      "id": 94,
+      "name": "JUEGO DE MENTE LINE UP 4",
+      "price": "$14.000",
+      "priceNum": 14000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 95,
+      "img": "juguetes/juego_de_mente_line_up_4.png"
+    },
+    {
+      "id": 95,
+      "name": "ROMPECABEZAS BOMBERO CON PIZARRA",
+      "price": "$12.000",
+      "priceNum": 12000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 96,
+      "img": "juguetes/rompecabezas_bombero_con_pizarra.png"
+    },
+    {
+      "id": 96,
+      "name": "ROMPECABEZAS ZOOLÓGICO",
+      "price": "$6.000",
+      "priceNum": 6000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 97,
+      "img": "juguetes/rompecabezas_zoologico.png"
+    },
+    {
+      "id": 97,
+      "name": "ROMPECABEZAS INFANTIL 60 PIEZAS",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Arte y Escritura",
+      "page": 98,
+      "img": "juguetes/rompecabezas_infantil_60_piezas.png"
+    },
+    {
+      "id": 98,
+      "name": "JUEGO MAGNÉTICO - MODELO VARIOS",
+      "price": "$14.000",
+      "priceNum": 14000,
+      "wholesale": [],
+      "category": "Construcción",
+      "page": 99,
+      "img": "juguetes/juego_magnetico_modelo_varios.png"
+    },
+    {
+      "id": 99,
+      "name": "MINI MESA DE POOL",
+      "price": "$14.000",
+      "priceNum": 14000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 100,
+      "img": "juguetes/mini_mesa_de_pool.png"
+    },
+    {
+      "id": 100,
+      "name": "DINOSAURIO PARA DESARMAR JUGUETE",
+      "price": "$10.000",
+      "priceNum": 10000,
+      "wholesale": [],
+      "category": "Otros",
+      "page": 101,
+      "img": "juguetes/dinosaurio_para_desarmar.png"
+    },
+    {
+      "id": 101,
+      "name": "LEGO COPA MUNDIAL",
+      "price": "$65.000",
+      "priceNum": 65000,
+      "wholesale": [],
+      "category": "Construcción",
+      "page": 102,
+      "img": "juguetes/lego_copa_mundial.png"
+    },
+    {
+      "id": 102,
+      "name": "JUGUETE MAGNÉTICO 28 PCS",
+      "price": "$26.000",
+      "priceNum": 26000,
+      "wholesale": [],
+      "category": "Construcción",
+      "page": 103,
+      "img": "juguetes/juguete_magnetico.png"
+    },
+    {
+      "id": 103,
+      "name": "JUGUETE MAGNÉTICO 48 PCS",
+      "price": "$38.000",
+      "priceNum": 38000,
+      "wholesale": [],
+      "category": "Construcción",
+      "page": 104,
+      "img": "juguetes/juguete_magnetico.png"
+    },
+    {
+      "id": 104,
+      "name": "JUGUETE MAGNÉTICO 60 PCS",
+      "price": "$46.000",
+      "priceNum": 46000,
+      "wholesale": [],
+      "category": "Construcción",
+      "page": 105,
+      "img": "juguetes/juguete_magnetico.png"
+    },
+    {
+      "id": 105,
+      "name": "ALFOMBRA / PISO DIDÁCTICO HEXAGONAL",
+      "price": "$30.000",
+      "priceNum": 30000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 106,
+      "img": "juguetes/alfombra_piso_didactico_hexagonal.png"
+    },
+    {
+      "id": 106,
+      "name": "ALFOMBRA / PISO DIDÁCTICO TRIANGULAR",
+      "price": "$38.000",
+      "priceNum": 38000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 107,
+      "img": "juguetes/alfombra_piso_didactico_triangular.png"
+    },
+    {
+      "id": 107,
+      "name": "ALFOMBRA / PISO DIDÁCTICO CIRCULAR",
+      "price": "$38.000",
+      "priceNum": 38000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 108,
+      "img": "juguetes/alfombra_piso_didactico_circular.png"
+    },
+    {
+      "id": 108,
+      "name": "ALFOMBRA DE GOMA DE BEBÉ",
+      "price": "$58.000",
+      "priceNum": 58000,
+      "wholesale": [],
+      "category": "Juegos de Mesa",
+      "page": 109,
+      "img": "juguetes/alfombra_de_goma_de_bebe.png"
+    },
+    {
+      "id": 109,
+      "name": "CARTERA IMPORTADA CAPIBARA",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 110,
+      "img": "juguetes/cartera_importada_capibara.png"
+    },
+    {
+      "id": 110,
+      "name": "LLAVERO CHARM",
+      "price": "$10.000",
+      "priceNum": 10000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 111,
+      "img": "juguetes/llavero_charm.png"
+    },
+    {
+      "id": 111,
+      "name": "LLAVERO SORPRESA CRY BABY",
+      "price": "$20.000",
+      "priceNum": 20000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 112,
+      "img": "juguetes/llavero_sorpresa_cry_baby.png"
+    },
+    {
+      "id": 112,
+      "name": "LLAVERO PELUCHE CAPIBARA",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 113,
+      "img": "juguetes/llavero_peluche.png"
+    },
+    {
+      "id": 113,
+      "name": "LLAVERO PELUCHE CRY BABY",
+      "price": "$6.000",
+      "priceNum": 6000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 114,
+      "img": "juguetes/llavero_peluche.png"
+    },
+    {
+      "id": 114,
+      "name": "MINI MAQUINA SACA PELUCHE",
+      "price": "$45.000",
+      "priceNum": 45000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 115,
+      "img": "juguetes/mini_maquina_saca_peluche.png"
+    },
+    {
+      "id": 115,
+      "name": "PELUCHE CAPIBARA PEQUEÑO",
+      "price": "$8.000",
+      "priceNum": 8000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 116,
+      "img": "juguetes/peluche_capibara_pequeno.png"
+    },
+    {
+      "id": 116,
+      "name": "PELUCHE CON MANTA LABUBU Y CAPIBARA",
+      "price": "$35.000",
+      "priceNum": 35000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 117,
+      "img": "juguetes/peluche_con_manta_labubu_capibara.png"
+    },
+    {
+      "id": 117,
+      "name": "PELUCHE CON TOALLA",
+      "price": "$35.000",
+      "priceNum": 35000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 118,
+      "img": "juguetes/peluche_con_toalla.png"
+    },
+    {
+      "id": 118,
+      "name": "LABUBU GIGANTE ZIMOMO",
+      "price": "$55.000",
+      "priceNum": 55000,
+      "wholesale": [],
+      "category": "Peluches y Accesorios",
+      "page": 119,
+      "img": "juguetes/labubu_gigante_zimomo.png"
+    },
+    {
+      "id": 119,
+      "name": "MONOPATÍN GRAFITI",
+      "price": "$48.000",
+      "priceNum": 48000,
+      "wholesale": [],
+      "category": "Deportes",
+      "page": 120,
+      "img": "juguetes/monopatin_grafiti.png"
+    }
+  ],
+  "categories": [
+    "Arte y Escritura",
+    "Audio",
+    "Consolas",
+    "Construcción",
+    "Deportes",
+    "Drones",
+    "Fotografía",
+    "Hogar y Decoración",
+    "Juegos de Mesa",
+    "Juegos de Rol",
+    "Otros",
+    "Peluches y Accesorios",
+    "Pop It y Burbujas",
+    "Proyectores",
+    "Robots",
+    "Vehículos"
+  ],
+  "catEmoji": {
+    "Arte y Escritura": "🎨",
+    "Audio": "🎧",
+    "Construcción": "🧱",
+    "Consolas": "🎮",
+    "Deportes": "⚽",
+    "Drones": "🛸",
+    "Fotografía": "📸",
+    "Hogar y Decoración": "🏠",
+    "Juegos de Mesa": "🎲",
+    "Juegos de Rol": "👨‍⚕️",
+    "Otros": "✨",
+    "Peluches y Accesorios": "🧸",
+    "Pop It y Burbujas": "🫧",
+    "Proyectores": "🌟",
+    "Robots": "🤖",
+    "Vehículos": "🏎️"
+  }
+}

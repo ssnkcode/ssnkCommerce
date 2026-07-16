@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LolaShop - Catálogo de Juguetes | Polirubro</title>
+    <meta name="description" content="Catálogo de juguetes mayoristas LolaShop. Drones, consolas, juguetes educativos y más al mejor precio.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="../logo_hermana.png">
+</head>
+<body>
+    <!-- HEADER -->
+    <header class="header" id="header">
+        <div class="header__inner">
+            <a href="#" class="header__logo" aria-label="LolaShop Inicio">
+                <span class="header__logo-icon">🧸</span>
+                <div class="header__logo-text">
+                    <span class="header__brand">LolaShop</span>
+                    <span class="header__tagline">Polirubro y Juguetería</span>
+                </div>
+            </a>
+            
+            <nav class="header__nav" aria-label="Navegación principal">
+                <a href="#catalogo" class="header__nav-link active">Catálogo</a>
+                <a href="#categorias" class="header__nav-link">Categorías</a>
+                <a href="#contacto" class="header__nav-link">Contacto</a>
+            </nav>
+            
+            <div class="header__actions">
+                <button class="theme-toggle" id="themeToggle" aria-label="Cambiar tema" title="Cambiar entre modo claro y oscuro">
+                    <span class="theme-toggle__icon" aria-hidden="true">🌙</span>
+                    <span class="theme-toggle__track">
+                        <span class="theme-toggle__thumb"></span>
+                    </span>
+                </button>
+                
+                <button class="header__cart-btn" id="cartBtn" aria-label="Ver carrito de consultas" aria-expanded="false">
+                    <span class="header__cart-icon" aria-hidden="true">💬</span>
+                    <span class="header__cart-count" id="cartCount" aria-live="polite">0</span>
+                </button>
+                
+                <button class="header__menu-btn" id="menuBtn" aria-label="Abrir menú" aria-expanded="false">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- MOBILE NAV -->
+    <div class="mobile-nav" id="mobileNav" aria-hidden="true">
+        <nav aria-label="Navegación móvil">
+            <a href="#catalogo" class="mobile-nav__link">Catálogo</a>
+            <a href="#categorias" class="mobile-nav__link">Categorías</a>
+            <a href="#contacto" class="mobile-nav__link">Contacto</a>
+        </nav>
+    </div>
+
+    <!-- HERO -->
+    <section class="hero" id="hero">
+        <div class="hero__bg">
+            <div class="hero__shape hero__shape--1"></div>
+            <div class="hero__shape hero__shape--2"></div>
+            <div class="hero__shape hero__shape--3"></div>
+        </div>
+        <div class="hero__content">
+            <p class="hero__badge">📦 Catálogo Mayorista 2025</p>
+            <h1 class="hero__title">
+                Los mejores <span class="hero__highlight">juguetes</span> al mejor precio
+            </h1>
+            <p class="hero__subtitle">
+                Explora nuestro catálogo completo con más de 117 productos. 
+                Precios especiales por cantidad. Envíos a todo el país.
+            </p>
+            <div class="hero__actions">
+                <a href="#catalogo" class="btn btn--primary btn--lg">
+                    <span>Ver Catálogo</span>
+                    <span aria-hidden="true">→</span>
+                </a>
+                <a href="#contacto" class="btn btn--outline btn--lg">
+                    <span>Contactar</span>
+                </a>
+            </div>
+            <div class="hero__stats">
+                <div class="hero__stat">
+                    <span class="hero__stat-num">117+</span>
+                    <span class="hero__stat-label">Productos</span>
+                </div>
+                <div class="hero__stat">
+                    <span class="hero__stat-num">16</span>
+                    <span class="hero__stat-label">Categorías</span>
+                </div>
+                <div class="hero__stat">
+                    <span class="hero__stat-num">1500</span>
+                    <span class="hero__stat-label">Código CT</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CATEGORIES -->
+    <section class="categories" id="categorias" aria-label="Categorías">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Explora por Categoría</h2>
+                <p class="section-subtitle">Encuentra lo que buscas filtrando por tipo de producto</p>
+            </div>
+            <div class="categories__grid" id="categoriesGrid" role="list">
+            </div>
+        </div>
+    </section>
+
+    <!-- CATALOG -->
+    <section class="catalog" id="catalogo" aria-label="Catálogo de productos">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Catálogo Completo</h2>
+                <p class="section-subtitle">117 productos disponibles</p>
+            </div>
+            
+            <!-- Search & Filters -->
+            <div class="catalog__controls">
+                <div class="search" role="search">
+                    <span class="search__icon" aria-hidden="true">🔍</span>
+                    <input 
+                        type="search" 
+                        class="search__input" 
+                        id="searchInput" 
+                        placeholder="Buscar productos..." 
+                        aria-label="Buscar productos"
+                        autocomplete="off"
+                    >
+                    <button class="search__clear" id="searchClear" aria-label="Limpiar búsqueda" hidden>✕</button>
+                </div>
+                
+                <div class="catalog__filters" role="group" aria-label="Filtros">
+                    <button class="filter-btn active" data-category="all" aria-pressed="true">
+                        Todos
+                    </button>
+                </div>
+                
+                <div class="catalog__sort">
+                    <label for="sortSelect" class="sr-only">Ordenar por</label>
+                    <select id="sortSelect" class="sort-select" aria-label="Ordenar productos">
+                        <option value="default">Ordenar por</option>
+                        <option value="name-asc">Nombre A-Z</option>
+                        <option value="name-desc">Nombre Z-A</option>
+                        <option value="price-asc">Menor precio</option>
+                        <option value="price-desc">Mayor precio</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="catalog__count" id="catalogCount" aria-live="polite">
+                Mostrando 117 productos
+            </div>
+            
+            <!-- Products Grid -->
+            <div class="catalog__grid" id="productsGrid" role="list" aria-label="Lista de productos">
+            </div>
+            
+            <div class="catalog__empty" id="catalogEmpty" hidden>
+                <span class="catalog__empty-icon" aria-hidden="true">🔎</span>
+                <h3>No se encontraron productos</h3>
+                <p>Intenta con otros términos de búsqueda o cambia el filtro.</p>
+                <button class="btn btn--primary" onclick="resetFilters()">Ver todos los productos</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="contact" id="contacto" aria-label="Contacto">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">¿Questions?</h2>
+                <p class="section-subtitle">Contactanos para precios mayoristas y envíos</p>
+            </div>
+            <div class="contact__grid">
+                <div class="contact__card">
+                    <span class="contact__card-icon" aria-hidden="true">📱</span>
+                    <h3>WhatsApp</h3>
+                    <p>Envianos un mensaje para consultas y pedidos</p>
+                    <a href="https://wa.me/5491100000000?text=Hola!%20Quiero%20hacer%20un%20pedido%20del%20catálogo%20LolaShop" class="btn btn--primary" target="_blank" rel="noopener">
+                        Enviar mensaje
+                    </a>
+                </div>
+                <div class="contact__card">
+                    <span class="contact__card-icon" aria-hidden="true">📧</span>
+                    <h3>Email</h3>
+                    <p>Consultas generales y pedidos especiales</p>
+                    <a href="mailto:info@lolashop.com" class="btn btn--outline">
+                        Enviar email
+                    </a>
+                </div>
+                <div class="contact__card">
+                    <span class="contact__card-icon" aria-hidden="true">🏪</span>
+                    <h3>Visitanos</h3>
+                    <p>Todos los días de 9 a 19 hs</p>
+                    <span class="contact__address">Av. Principal 1234</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__inner">
+                <div class="footer__brand">
+                    <span class="footer__logo">🧸 LolaShop</span>
+                    <p>Polirubro y Juguetería - Catálogo Mayorista CT.1500</p>
+                </div>
+                <div class="footer__copy">
+                    <p>&copy; 2025 LolaShop. Todos los derechos reservados.</p>
+                    <p class="footer__note">Precios sujetos a cambio sin previo aviso. Stock sujeto a disponibilidad.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- CART SIDEBAR -->
+    <div class="cart-overlay" id="cartOverlay" aria-hidden="true"></div>
+    <aside class="cart-sidebar" id="cartSidebar" aria-label="Carrito de consultas" aria-hidden="true">
+        <div class="cart-sidebar__header">
+            <h2>Mi Consulta</h2>
+            <button class="cart-sidebar__close" id="cartClose" aria-label="Cerrar carrito">✕</button>
+        </div>
+        <div class="cart-sidebar__body" id="cartBody">
+            <div class="cart-sidebar__empty">
+                <span aria-hidden="true">💬</span>
+                <p>Agregá productos para hacer tu consulta por WhatsApp</p>
+            </div>
+        </div>
+        <div class="cart-sidebar__footer" id="cartFooter" hidden>
+            <button class="btn btn--primary btn--full" id="sendWhatsApp">
+                <span>📱</span> Enviar consulta por WhatsApp
+            </button>
+            <button class="btn btn--outline btn--full" id="clearCart">
+                Limpiar lista
+            </button>
+        </div>
+    </aside>
+
+    <!-- BACK TO TOP -->
+    <button class="back-to-top" id="backToTop" aria-label="Volver arriba" hidden>
+        <span aria-hidden="true">↑</span>
+    </button>
+
+    <!-- PRODUCT MODAL -->
+    <div class="modal-overlay" id="modalOverlay" aria-hidden="true">
+        <div class="modal" id="productModal" role="dialog" aria-modal="true" aria-label="Detalle del producto">
+            <button class="modal__close" id="modalClose" aria-label="Cerrar detalle">✕</button>
+            <div class="modal__body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <!-- Los productos se cargan dinamicamente desde products_final.json -->
+    <script src="js/app.js"></script>
+</body>
+</html>
